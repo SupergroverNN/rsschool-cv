@@ -31,6 +31,7 @@ My name is Igor Shipulin. I'm Junior Frontend Developer. . In 2006, I was a stud
 - NextJS + SSR,
 - Express JS,
 - Git,
+- Typescript,
 - small experience with Node.js, hapi, MongoDB.
 
 ## English:
