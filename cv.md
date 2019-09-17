@@ -4,5 +4,19 @@ My name is Igor Shipulin. I'm Junior Frontend Developer. . In 2006, I was a stud
 
 ## Contact info:
 
-- **Email**: booger1@yandex.ru;
+- **Email**: <booger1@yandex.ru>;
 - **Telegram**: [@SupergroverNN](https://t.me/@SupergroverNN);
+
+## Education & Courses:
+
+#### Higher education
+
+- Lobachevsky University, Faculty of Computational Mathematics and Cybernetics;
+- Nizhny Novgorod State Technical University of Alekseev, Department of Automated Control Systems and Information Technologies;
+
+#### Courses
+
+- Yandex courses on javascript;
+- [Hexlet](https://ru.hexlet.io/u/supergrovernn);
+- [Codewars](https://www.codewars.com/users/SupergroverNN);
+- [Github](https://github.com/SupergroverNN);
