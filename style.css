@@ -1,0 +1,83 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: gray;
+  display: flex;
+  justify-content: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+main {
+  display: flex;
+  background-color: #191919;
+  width: 100%;
+  max-width: 1024px;
+  min-height: 1200px;
+  padding: 50px;
+}
+main > aside > article {
+  padding: 20px 0;
+}
+aside > article > address {
+  font-size: 20px;
+}
+aside > article > a {
+  color: white;
+  font-size: 20px;
+  transition: all 0.5s;
+}
+aside > article > a:hover {
+  font-size: 22px;
+  transition: all 0.5s;
+}
+aside {
+  flex: 1;
+  color: #ffffff;
+  height: 100%;
+  width: 100%;
+}
+aside > figure > img {
+  margin-bottom: 20px;
+}
+aside > figure > figcaption {
+  font-size: 32px;
+}
+section {
+  flex: 2;
+  background-color: #c5dfb4;
+  width: 100%;
+  height: 100%;
+  border-radius: 5px;
+}
+section > article > h2.title {
+  background-color: #528035;
+  border: 1px solid white;
+  display: flex;
+  align-items: center;
+  width: 300px;
+  height: 50px;
+  padding-left: 30px;
+  margin: 25px 0;
+  margin-left: -30px;
+  color: white;
+}
+section > article > p.content {
+  margin: 0 20px;
+  text-indent: 20px;
+  text-align: justify;
+}
+h3 {
+  margin: 0 20px;
+  text-decoration: underline;
+}
+ul {
+  margin: 20px 40px;
+}
+article > section {
+  margin-bottom: 20px;
+}
+li > a {
+  color: black;
+}
