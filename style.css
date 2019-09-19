@@ -13,15 +13,13 @@ main {
   display: flex;
   width: 100%;
   max-width: 1024px;
-  min-height: 1200px;
+  min-height: 1300px;
   padding: 50px;
+  border-radius: 5px;
   background-color: #333333;
 }
 main > aside > article {
   padding: 20px 0;
-}
-aside > article > address {
-  font-size: 20px;
 }
 aside > article > a {
   display: inline-block;
@@ -41,7 +39,10 @@ aside {
   color: #f9f9f9;
 }
 aside > figure > img {
+  width: 260px;
+  height: 260px;
   margin-bottom: 20px;
+  border-radius: 50%;
 }
 aside > figure > figcaption {
   font-size: 32px;
@@ -57,7 +58,7 @@ section {
 section > article > h2.title {
   position: relative;
   display: flex;
-  width: 320px;
+  width: 350px;
   height: 50px;
   padding-left: 30px;
   margin: 25px 0;
@@ -99,4 +100,7 @@ article > section {
 }
 li > a {
   color: black;
+}
+li > a:hover {
+  color: #9fa19b;
 }
